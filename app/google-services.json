@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1090313768618",
+    "project_id": "fortall-b5b44",
+    "storage_bucket": "fortall-b5b44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090313768618:android:8ffd629c11354953b30ad3",
+        "android_client_info": {
+          "package_name": "com.example.projetofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090313768618-1rke07lj162ftboatkdse5j481cfe2es.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLAMw1kTIDcA0qYWPRNXFGC9fy8ytlG9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090313768618-1rke07lj162ftboatkdse5j481cfe2es.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
